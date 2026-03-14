@@ -48,7 +48,7 @@
 
 <dependencies>
     <dependency>
-        <groupId>com.github.AC1original</groupId>
+        <groupId>com.github.AC1prmry</groupId>
         <artifactId>Filemanager</artifactId>
         <version>main-SNAPSHOT</version>
     </dependency>
@@ -63,7 +63,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.AC1original:Filemanager:main-SNAPSHOT'
+    implementation 'com.github.AC1prmry:Filemanager:main-SNAPSHOT'
 }
 ```
 
