@@ -35,6 +35,7 @@
 ---
 
 ## Installation
+[![](https://jitpack.io/v/AC1prmry/Filemanager.svg)](https://jitpack.io/#AC1prmry/Filemanager)
 
 ### Maven
 
