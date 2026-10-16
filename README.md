@@ -1,4 +1,4 @@
-# 📁 FileManager
+# FileManager
 
 **FileManager** is a lightweight and flexible Java library for managing text file content. It provides two different classes tailored for different use cases:
 
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Features
+## Features
 
 - Read, write, insert, and remove lines from files
 - Support for both `File` and `InputStream` sources
@@ -16,7 +16,7 @@
 
 ---
 
-## 🧱 Class Overview
+## Class Overview
 
 ### `FileManager`
 
