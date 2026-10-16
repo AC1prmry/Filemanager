@@ -34,7 +34,7 @@
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ### Maven
 
@@ -69,7 +69,7 @@ dependencies {
 
 ---
 
-## 📄 Usage Example
+## Usage Example
 
 ```java
 import de.ac.filemanager.FileManager;
@@ -103,12 +103,12 @@ These operations are only supported when using a `File` as the source.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Feel free to fork this repository, make improvements, and submit a pull request!
 
 ---
 
-## 📬 Contact
+## Contact
 
 For questions or suggestions, feel free to [contact me on Discord](https://discord.com/users/872921450691067924/).
