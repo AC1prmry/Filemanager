@@ -35,8 +35,12 @@
 ---
 
 ## Installation
+
+#### Klick here:
+
 [![](https://jitpack.io/v/AC1prmry/Filemanager.svg)](https://jitpack.io/#AC1prmry/Filemanager)
 
+#### Or:
 ### Maven
 
 ```xml
@@ -67,6 +71,9 @@ dependencies {
     implementation 'com.github.AC1prmry:Filemanager:main-SNAPSHOT'
 }
 ```
+#### Version Note:
+Use `main-SNAPSHOT` for the newest version (latest commit), an commit hash
+or an tag like `v1.1.6` (recommendet)
 
 ---
 
